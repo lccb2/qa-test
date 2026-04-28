@@ -1,0 +1,22 @@
+# --- Cypress / Node.js ---
+**/node_modules/
+**/cypress/screenshots/
+**/cypress/videos/
+**/cypress/downloads/
+**/cypress/results/
+.env
+cypress.env.json
+npm-debug.log*
+
+# --- Allure Report ---
+**/allure-results/
+**/allure-report/
+**/allure-raw-data/
+
+# --- Sistema e Outros ---
+.DS_Store
+Thumbs.db
+.vscode/
+bin/
+temp/
+tmp/
