@@ -2,7 +2,7 @@
 
 | Atributo | Descrição |
 |---|---|
-| **Status Esperado** | Sistema deve aceitar valores válidos |
+| **Status Esperado** | Sistema deve aceitar valores válidos entre 0 e 100 |
 | **Prioridade** | Alta |
 | **Tipo de Teste** | Auto |
 
