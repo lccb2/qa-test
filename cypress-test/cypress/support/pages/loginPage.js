@@ -5,7 +5,7 @@ class LoginPage {
     }
 
     get inputSenha() {
-        return cy.get('#loginPassword').first();
+        return cy.get('#loginPassword');
     }
 
     get botaoEntrar() {

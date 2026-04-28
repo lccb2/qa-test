@@ -18,5 +18,6 @@
 - [ ] [CT-WEB-COLETA-016] Não deve retornar sucesso para dados inválidos
 - [ ] [CT-WEB-COLETA-017] Deve registrar usuário responsável pela coleta
 - [ ] [CT-WEB-COLETA-018] Deve validar campos obrigatórios do CSV
+- [ ] [CT-WEB-COLETA-019] Não deve duplicar coleta em envio
 
 
