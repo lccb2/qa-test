@@ -7,11 +7,20 @@ beforeEach(() => {
     cy.visit('/');
 });
 
+describe('Teste de acessibilidade', () => {
+  it('Não deve ter violações de acessibilidade', () => {
+    cy.visit('/');
+
+    cy.pageAccessibility();
+    cy.injectAxe();
+    cy.checkA11y(); 
+    
+  });
+});
 
 describe('Teste de Fluxo de Login', () => {
 
     it('[CT-WEB-LOGIN-001] - Deve permitir login com usuário e senha válidos', () => {
-        
         loginPage.realizarLoginCompleto(usuario, senha);
         loginPage.verificarSucessoValidacao();
         
