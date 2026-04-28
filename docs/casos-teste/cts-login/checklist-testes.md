@@ -8,3 +8,6 @@
 - [ ] [CT-WEB-LOGIN-006] Deve impedir XSS no campo usuário
 - [ ] [CT-WEB-LOGIN-007] Deve impedir acesso ao dashboard sem login
 - [ ] [CT-WEB-LOGIN-008] Deve implementar validação de máximo de caracteres no front
+- [ ] [CT-WEB-LOGIN-009] Deve manter usuário autenticado quando "Lembrar-me" estiver ativado
+- [ ] [CT-WEB-LOGIN-010] Não deve persistir na sessão quando "Lembrar-me" não estiver selecionado
+

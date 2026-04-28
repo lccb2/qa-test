@@ -3,8 +3,8 @@
 | Atributo | Descrição |
 |---|---|
 | **Status Esperado** | Usuário deve ser deslogado ao fechar o navegador caso a opção "Lembrar-me" não esteja marcada |
-| **Prioridade** | Média |
-| **Tipo de Teste** | Manual |
+| **Prioridade** | Alta |
+| **Tipo de Teste** | Auto |
 
 ### Funcionalidade: Login
 

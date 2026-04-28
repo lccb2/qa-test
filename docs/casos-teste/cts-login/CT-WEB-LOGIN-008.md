@@ -18,7 +18,7 @@ US
 ### Cenário: Deve implementar validação de máximo de caracteres no front
 
 **Dado** que estou na página de login  
-**E** o campo de usuário possui limite máximo definido  
-**Quando** insiro uma quantidade de caracteres maior que o permitido no campo usuário ou senha  
+**E** o campo de usuário deve possuir limite máximo definido  
+**Quando** insiro uma grande quantidade de caracteres no campo usuário ou senha  
 **Então** o sistema deve impedir o envio do formulário  
 **E** deve exibir uma mensagem informando que o limite de caracteres foi excedido
