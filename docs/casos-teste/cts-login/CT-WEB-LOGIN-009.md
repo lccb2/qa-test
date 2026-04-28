@@ -3,8 +3,8 @@
 | Atributo | Descrição |
 |---|---|
 | **Status Esperado** | Usuário permanece autenticado após recarregar ou reabrir a aplicação |
-| **Prioridade** | Média |
-| **Tipo de Teste** | Manual |
+| **Prioridade** | Alta |
+| **Tipo de Teste** | Auto |
 
 ### Funcionalidade: Login
 
